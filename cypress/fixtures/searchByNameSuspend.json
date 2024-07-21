@@ -1,0 +1,22 @@
+[
+  {
+    "id": 278,
+    "applicant": "Halal Cart of San Francisco",
+    "facilityType": "Push Cart",
+    "status": "SUSPEND",
+    "foodItems": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich",
+    "address": "400 MONTGOMERY ST",
+    "latitude": 37.79314862698347,
+    "longitude": -122.4025671755779
+  },
+  {
+    "id": 317,
+    "applicant": "Halal Cart of San Francisco",
+    "facilityType": "Push Cart",
+    "status": "SUSPEND",
+    "foodItems": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich",
+    "address": "1 MARKET ST",
+    "latitude": 37.793871507150634,
+    "longitude": -122.39486523862108
+  }
+]

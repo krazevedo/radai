@@ -1,0 +1,32 @@
+[
+  {
+    "id": 143,
+    "applicant": "Brazuca Grill",
+    "facilityType": "Truck",
+    "status": "APPROVED",
+    "foodItems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "address": "998 INDIANA ST",
+    "latitude": 37.758037393488074,
+    "longitude": -122.3916718906821
+  },
+  {
+    "id": 161,
+    "applicant": "Brazuca Grill",
+    "facilityType": "Truck",
+    "status": "APPROVED",
+    "foodItems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "address": "951 INDIANA ST",
+    "latitude": 37.758786162305626,
+    "longitude": -122.39095839869275
+  },
+  {
+    "id": 186,
+    "applicant": "Brazuca Grill",
+    "facilityType": "Truck",
+    "status": "APPROVED",
+    "foodItems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "address": "1575 INDIANA ST",
+    "latitude": 37.75084960681246,
+    "longitude": -122.3900276155014
+  }
+]

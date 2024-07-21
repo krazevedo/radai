@@ -1,0 +1,82 @@
+[
+  {
+    "id": 169,
+    "applicant": "F & C Catering",
+    "facilityType": "Truck",
+    "status": "EXPIRED",
+    "foodItems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+    "address": "1500 TENNESSEE ST",
+    "latitude": 37.75224166848031,
+    "longitude": -122.38918854258944
+  },
+  {
+    "id": 182,
+    "applicant": "F & C Catering",
+    "facilityType": "Truck",
+    "status": "EXPIRED",
+    "foodItems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+    "address": "1275 MINNESOTA ST",
+    "latitude": 37.754251708893726,
+    "longitude": -122.3893812288799
+  },
+  {
+    "id": 190,
+    "applicant": "F & C Catering",
+    "facilityType": "Truck",
+    "status": "EXPIRED",
+    "foodItems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+    "address": "2800 03RD ST",
+    "latitude": 37.753717416902134,
+    "longitude": -122.38835902104361
+  },
+  {
+    "id": 277,
+    "applicant": "F & C Catering",
+    "facilityType": "Truck",
+    "status": "EXPIRED",
+    "foodItems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+    "address": "2890 03RD ST",
+    "latitude": 37.75310874987126,
+    "longitude": -122.38817020206616
+  },
+  {
+    "id": 287,
+    "applicant": "F & C Catering",
+    "facilityType": "Truck",
+    "status": "EXPIRED",
+    "foodItems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+    "address": "Assessors Block /Lot",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "id": 288,
+    "applicant": "F & C Catering",
+    "facilityType": "Truck",
+    "status": "EXPIRED",
+    "foodItems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+    "address": "900 MINNESOTA ST",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "id": 289,
+    "applicant": "F & C Catering",
+    "facilityType": "Truck",
+    "status": "EXPIRED",
+    "foodItems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+    "address": "700 25TH ST",
+    "latitude": 37.75338080997486,
+    "longitude": -122.38636768585714
+  },
+  {
+    "id": 294,
+    "applicant": "F & C Catering",
+    "facilityType": "Truck",
+    "status": "EXPIRED",
+    "foodItems": "Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+    "address": "898 PENNSYLVANIA AVE",
+    "latitude": 37.755534471603866,
+    "longitude": -122.39392527753924
+  }
+]

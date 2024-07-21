@@ -1,0 +1,13 @@
+### DotnetCore ###
+# .NET Core build folders
+bin/
+obj/
+
+# Sqlite Databases
+*.db
+
+node_modules
+cypress/videos
+cypress/screenshots
+cypress/downloads
+cypress/reports

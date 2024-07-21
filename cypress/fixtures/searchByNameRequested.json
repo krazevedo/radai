@@ -1,0 +1,22 @@
+[
+  {
+    "id": 426,
+    "applicant": "Halal Cart of San Francisco",
+    "facilityType": "Push Cart",
+    "status": "REQUESTED",
+    "foodItems": "Gyro; Chicken over rice; Gyro over rice;",
+    "address": "1 FRONT ST",
+    "latitude": 37.791757205944414,
+    "longitude": -122.39889763689186
+  },
+  {
+    "id": 438,
+    "applicant": "Halal Cart of San Francisco",
+    "facilityType": "Push Cart",
+    "status": "REQUESTED",
+    "foodItems": "Gyro; Chicken over rice; Gyro over rice;",
+    "address": "555 MARKET ST",
+    "latitude": 37.78988987820978,
+    "longitude": -122.39993041135052
+  }
+]
