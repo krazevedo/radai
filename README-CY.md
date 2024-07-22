@@ -2,6 +2,37 @@
 
 Sample project to RAD AI QA Engineer Technical Assessment with [ASP.NET Core Web API](README.md).
 
+### Why Cypress
+
+I chose Cypress to automate API testing and end-to-end (E2E) testing because it offers several compelling benefits, making it a popular choice among QA engineers. Here are some benefits.
+
+1. Easy Setup and Integration
+
+   Setting up Cypress is straightforward, requiring minimal configuration to get started. Its integration with modern JavaScript frameworks and tools (like React, Angular, Vue, and Jest) makes it easy to incorporate into existing projects, streamlining the testing process.
+
+2. Cross-Browser Testing
+
+   Cypress supports cross-browser testing out of the box, allowing you to run your E2E tests across Chrome, Firefox, Safari, and Edge. This broad compatibility ensures that your application works seamlessly across different browsers and platforms.
+
+3. Rich Debugging Capabilities
+
+   Cypress provides extensive debugging capabilities, including network traffic inspection, screenshots on failure, and video recording of test runs. These features make it easier to diagnose and fix issues quickly.
+
+4. API Testing Support
+
+   While primarily known for E2E testing, Cypress also offers robust support for API testing. Developers can write tests to validate RESTful services, GraphQL APIs, and more, all within the same framework.
+
+5. Developer-Friendly
+
+   Cypress is designed with developers in mind, offering a familiar syntax and a rich set of developer tools. This focus on developer experience encourages more developers to participate in testing activities, fostering a culture of quality.
+
+6. Parallel Test Execution
+
+   Cypress supports parallel test execution, enabling teams to run a large number of tests in less time. This capability is particularly useful for maintaining fast CI/CD pipelines.
+
+**Conclusion**
+Cypress's combination of powerful features, ease of use, and strong community support makes it an excellent choice for automating both API and E2E tests.
+
 ### Pre-requirements
 
 It is required to have Node.js and npm installed to run this project.
@@ -29,8 +60,6 @@ Cypress provides detailed test results and generate a report to better understan
 - Decision Making: They offer insights for decision-making, such as prioritizing bug fixes, optimizing test coverage, and allocating resources effectively.
 
 ![Report Image](assets/radai_cypress_report.png)
-
----
 
 ---
 
